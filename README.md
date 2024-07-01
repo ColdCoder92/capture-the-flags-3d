@@ -6,5 +6,6 @@ After improving myself in the hackathon, I took the opportunity to continue and 
 The initial development process of the Unity game was entirely based on the Create with Code course. This meant creating the world floor, prototype models and movement, game mechanics; GUI, then audio. After the tutorial, I added extra features including the difficulty system and fixed any bugs present during the development. What was considered for future updates included support for multiplayer.
 
 Download: [CaptureTheFlagsDemo.zip](https://github.com/user-attachments/files/16059434/CaptureTheFlagsDemo.zip)
+Note: The file may not open for being too outdated
 
 You can also access the Godot game in the hackathon submission page [here](https://github.com/ColdCoder92/capture-the-flags).
