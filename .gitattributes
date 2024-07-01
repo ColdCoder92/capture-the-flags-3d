@@ -1,0 +1,453 @@
+###############################################################################
+# Set default behavior to automatically normalize line endings.
+* text=auto
+
+# Set default behavior for command prompt diff.
+#
+# This is need for earlier builds of msysgit that does not have it on by
+# default for csharp files.
+# Note: This is only used by command line
+#*.cs     diff=csharp
+# Set the merge driver for project and solution files
+# Merging from the command prompt will add diff markers to the files if there
+# are conflicts (Merging from VS is not affected by the settings below, in VS
+# the diff markers are never inserted). Diff markers may cause the following 
+# file extensions to fail to load in VS. An alternative would be to treat
+# these files as binary and thus will always conflict and require user
+# intervention with every merge. To do so, just uncomment the entries below
+#*.sln       merge=binary
+#*.csproj    merge=binary
+#*.vbproj    merge=binary
+#*.vcxproj   merge=binary
+#*.vcproj    merge=binary
+#*.dbproj    merge=binary
+#*.fsproj    merge=binary
+#*.lsproj    merge=binary
+#*.wixproj   merge=binary
+#*.modelproj merge=binary
+#*.sqlproj   merge=binary
+#*.wwaproj   merge=binary
+# behavior for image files
+# image files are treated as binary by default.
+#*.jpg   binary
+#*.png   binary
+#*.gif   binary
+# diff behavior for common document formats
+# 
+# Convert binary document formats to text before diffing them. This feature
+# is only available from the command line. Turn it on by uncommenting the 
+# entries below.
+#*.doc   diff=astextplain
+#*.DOC   diff=astextplain
+#*.docx  diff=astextplain
+#*.DOCX  diff=astextplain
+#*.dot   diff=astextplain
+#*.DOT   diff=astextplain
+#*.pdf   diff=astextplain
+#*.PDF   diff=astextplain
+#*.rtf   diff=astextplain
+#*.RTF   diff=astextplain
+/Assets/Course[[:space:]]Library/Audio/Music/cron_audio_8-bit_modern01.ogg filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Audio/Music/cron_audio_8-bit_modern02.ogg filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Audio/Music/cron_audio_8-bit_modern03.ogg filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Audio/Music/cron_audio_8-bit_retro01.ogg filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Audio/Music/cron_audio_8-bit_retro02.ogg filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Audio/Sound[[:space:]]Effects/Gameplay/Sensor[[:space:]]02_8-Bit_11025Hz.wav filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Environments/Backgrounds/Background_City.png filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Environments/Backgrounds/Background_Nature.png filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Environments/Backgrounds/Background_Town.png filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Fonts/Baloo_Chettan/BalooChettan-Regular[[:space:]]SDF.asset filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Fonts/Baloo_Chettan/BalooChettan-Regular.ttf filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Fonts/Exo_2/Exo2-Regular[[:space:]]SDF.asset filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Fonts/Exo_2/Exo2-Regular.ttf filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Fonts/Indie_Flower/IndieFlower[[:space:]]SDF.asset filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Fonts/Margarine/Margarine-Regular[[:space:]]SDF.asset filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Fonts/Margarine/Margarine-Regular.ttf filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Fonts/Oswald/Oswald-Regular[[:space:]]SDF.asset filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Fonts/Roboto/Roboto-Regular[[:space:]]SDF.asset filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Fonts/Roboto/Roboto-Regular.ttf filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Particles/FX_DirtSplatter.prefab filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Particles/FX_Dust_Blowing_01.prefab filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Particles/FX_Dust_Prefab_01.prefab filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Particles/FX_Dust_Prefab_02.prefab filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Particles/FX_Dust_Prefab_03.prefab filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Particles/FX_Explosion_Rubble.prefab filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Particles/FX_Fire.prefab filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Particles/FX_Fireworks_Blue_Large.prefab filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Particles/FX_Fireworks_Blue_Small[[:space:]].prefab filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Particles/FX_Fireworks_Green_Large.prefab filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Particles/FX_Fireworks_Green_Small.prefab filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Particles/FX_Fireworks_Yellow_Large.prefab filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Particles/FX_Fireworks_Yellow_Small.prefab filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Particles/FX_FlameThrower.prefab filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Particles/FX_Smoke.prefab filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Particles/FX_Steam.prefab filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Particles/FX_TireSmoke.prefab filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Particles/FX_WaterSplash.prefab filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Particles/FX_WaterSplatter.prefab filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Textures/Ground/Conrete.png filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Textures/Ground/Grass.png filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Textures/Ground/Gravel.png filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/Textures/Ground/Sand.png filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/_Source_Files/FBX/Animations.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/_Source_Files/FBX/Animations/SimpleCharacter_5.0.controller filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/_Source_Files/FBX/Animations_IK.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/_Source_Files/FBX/Animations_Static.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/_Source_Files/FBX/Deer.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/_Source_Files/FBX/Fox.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/_Source_Files/FBX/SA_Animal_Birds.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/_Source_Files/FBX/SA_Animal_Chick.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/_Source_Files/FBX/SA_Animal_CowBull.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/_Source_Files/FBX/SA_Animal_Horse.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/_Source_Files/FBX/SM_Veh_Convertable_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/_Source_Files/FBX/SimpleDogs.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/_Source_Files/FBX/SimpleFarm_Characters.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/_Source_Files/FBX/SimplePeople.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/_Source_Files/Misc/SimpleCharacter.controller filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/_Source_Files/Textures/Misc/PolygonTown_Texture_Metallic.tga filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/_Source_Files/Textures/Misc/PolygonTown_Texture_Normal_A.png filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/_Source_Files/Textures/PolygonTown_Texture_01_A.png filter=lfs diff=lfs merge=lfs -text
+/Assets/Course[[:space:]]Library/_Source_Files/Textures/SimpleShopInterior_Texture.png filter=lfs diff=lfs merge=lfs -text
+/Assets/ExternalModels/Flag.Meshes/mesh_id27.asset filter=lfs diff=lfs merge=lfs -text
+/Assets/New[[:space:]]Terrain.asset filter=lfs diff=lfs merge=lfs -text
+/Assets/Prefabs/Assasin_Black.prefab filter=lfs diff=lfs merge=lfs -text
+/Assets/Prefabs/Assasin_Brown.prefab filter=lfs diff=lfs merge=lfs -text
+/Assets/Prefabs/Assasin_White.prefab filter=lfs diff=lfs merge=lfs -text
+/Assets/Scenes/ActualGame.unity filter=lfs diff=lfs merge=lfs -text
+/Assets/Scenes/CityAreaScene.unity filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonAdventure/DemoScene/Demo_Scene.unity filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonAdventure/Models/Characters/Characters.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonAdventure/Models/SM_Bld_Hut_01_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonAdventure/Models/SM_Bld_Stall_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonAdventure/Models/SM_Bld_Stall_02.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonAdventure/Models/SM_Bld_Stall_03.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonAdventure/Models/SM_Bld_Stall_04.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonAdventure/Models/SM_Bld_Well_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonAdventure/Models/SM_Env_Stream_Straight_02.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonAdventure/Models/SM_Env_Stream_Straight_02_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonAdventure/Models/SM_Prop_Barrel_02.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonAdventure/Models/SM_Prop_Cart_02.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonAdventure/Models/SM_Prop_Cart_03.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/FX/FX_Rain.prefab filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Models/Characters.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Models/FixedScaleCharacters/Characters.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Models/SM_Bld_CityHall_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Models/SM_Bld_OfficeOctagon_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Models/SM_Bld_OfficeOctagon_Base_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Models/SM_Bld_OfficeOld_Large_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Models/SM_Bld_OfficeOld_Large_02.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Models/SM_Bld_OfficeOld_Large_Base_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Models/SM_Bld_OfficeOld_Small_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Models/SM_Bld_OfficeOld_Small_Base_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Models/SM_Bld_OfficeRound_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Models/SM_Bld_OfficeRound_03.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Models/SM_Veh_Car_Ambo_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Models/SM_Veh_Car_Medium_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Models/SM_Veh_Car_Muscle_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Models/SM_Veh_Car_Police_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Models/SM_Veh_Car_Sedan_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Models/SM_Veh_Car_Small_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Models/SM_Veh_Car_Taxi_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Models/SM_Veh_Car_Van_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Scenes/Demo.unity filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Textures/BillboardAds.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Textures/PolygonCity_Road_01.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Textures/PolygonCity_Road_02.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Textures/PolygonCity_Road_03.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Textures/PolygonCity_Road_04.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Textures/PolygonCity_Texture_01_B.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Textures/PolygonCity_Texture_01_C.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Textures/PolygonCity_Texture_02_A.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Textures/PolygonCity_Texture_02_B.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Textures/PolygonCity_Texture_02_C.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Textures/PolygonCity_Texture_03_A.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Textures/PolygonCity_Texture_03_B.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Textures/PolygonCity_Texture_03_C.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Textures/PolygonCity_Texture_04_A.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Textures/PolygonCity_Texture_04_B.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Textures/PolygonCity_Texture_04_C.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Textures/PolygonCity_Texture_Metallic.tga filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonCity/Textures/PolygonCity_Texture_Skyline.tga filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Demo/DemoScene.unity filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/Characters/Characters_POLYGON_Knights.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/Characters/FixedScaleCharacters/Characters_POLYGON_Knights.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Castle_Wood_Battlement_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Castle_Wood_Battlement_01_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Castle_Wood_Battlement_02.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Castle_Wood_Battlement_02_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Castle_Wood_Battlement_03.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Castle_Wood_Battlement_03_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Castle_Wood_Battlement_04.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Castle_Wood_Battlement_04_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Church_Extension_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Church_Extension_01_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Church_Room_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Church_Room_01_Lite.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Church_Room_01_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Church_Room_02.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Church_Room_02_Lite.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Church_Room_02_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Church_Room_03.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Church_Room_03_Lite.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Church_Room_03_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Church_TowerBase_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Church_Tower_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Church_Tower_01_Lite.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Church_Tower_01_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Church_Tower_02.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Church_Tower_02_Lite.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Church_Tower_02_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Church_Tower_03.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_Extension_02_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_FoundationRock_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_Foundation_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_Foundation_02.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_Foundation_03.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_Foundation_04.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_Foundation_05.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_Foundation_06.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_RoomRound_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_RoomRound_01_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_RoomRound_02.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_RoomRound_02_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_RoomTall_01_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_RoomTall_02_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_RoomTall_03_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_RoomTop_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_RoomTop_01_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_RoomTop_02.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_RoomTop_02_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_RoomTop_03.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_RoomTop_03_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_RoomTop_04_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_RoomTop_05_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_RoomTop_06_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_RoomTop_07_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_Room_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_Room_01_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_Room_02.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_Room_02_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_Room_03.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_Room_03_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_Room_04.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_Room_04_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_Room_05.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_Room_05_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_Room_06.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_Room_06_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_Room_07.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_Room_07_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_TopRoomSmall_01_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_TopRoomSmall_02_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_TopRoomSmall_03_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_TopRoomSmall_06_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_Tower_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_House_Tower_01_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Village_Well_01_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Bld_Well_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Env_Cliff_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Env_Cliff_02.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Env_MountainGrass_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Env_MountainGrass_02.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Env_MountainSnow_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Env_MountainSnow_02.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Prop_CartHay_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Prop_CartHay_01_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Prop_Statue_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Prop_Statue_01_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonKnights/Models/SM_Prop_Statue_Base_01_Snow.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonSamples/PolygonDungeons/Textures/Dungeons_Texture_01.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonSamples/PolygonSciFiCity/Models/Character_Augmented_Male_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonSamples/PolygonSciFiCity/Textures/PolygonScifi_01_A.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonSamples/PolygonSciFiCity/Textures/PolygonScifi_01_B.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonSamples/PolygonSciFiCity/Textures/PolygonScifi_01_C.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/Models/Characters.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/Models/SM_Generic_CloudRing_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/Models/SM_PolygonApocalypse_Bld_House_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/Models/SM_PolygonCity_Veh_Car_Small_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/Models/SM_Veh_Plane_Stunt_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Models/Character_FPSHands_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Models/Character_FPSHands_02.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Models/Characters.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Models/SM_Generic_Mountains_Grass_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Models/SM_Pawn_Weapon_Female_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Models/SM_Pawn_Weapon_Female_02.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Models/SM_Pawn_Weapon_Male_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Models/SM_Veh_Car_Sports_01.fbx filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Prefabs/FX/Explosion_Small_FX.prefab filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Scenes/Demo.unity filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Textures/PolygonPrototype_Texture_01.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Textures/PolygonPrototype_Texture_02.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Textures/PolygonPrototype_Texture_03.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Textures/PolygonPrototype_Texture_04.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Textures/PolygonPrototype_Texture_05.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Textures/PolygonPrototype_Texture_06.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Textures/PolygonPrototype_Texture_07.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Textures/PolygonPrototype_Texture_08.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Textures/PolygonPrototype_Texture_09.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Textures/PolygonPrototype_Texture_10.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Textures/PolygonPrototype_Texture_Metallic.tga filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Textures/Wire_Alpha.tga filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/Textures/Wire_Alpha_White.tga filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/PolygonPrototype/URP_ExtractMe.unitypackage filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/Scenes/Demo.unity filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/Textures/PolygonStarter_Texture_01.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/Textures/PolygonStarter_Texture_02.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/Textures/PolygonStarter_Texture_03.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/Textures/PolygonStarter_Texture_04.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/Textures/Polygon_Plane_Texture_01.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/Textures/Polygon_Plane_Texture_02.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/Textures/Polygon_Plane_Texture_03.png filter=lfs diff=lfs merge=lfs -text
+/Assets/SyntyStudios/PolygonStarter/Textures/Polygon_Plane_Texture_04.png filter=lfs diff=lfs merge=lfs -text
+/Assets/TextMesh[[:space:]]Pro/Documentation/TextMesh[[:space:]]Pro[[:space:]]User[[:space:]]Guide[[:space:]]2016.pdf filter=lfs diff=lfs merge=lfs -text
+/Assets/TextMesh[[:space:]]Pro/Fonts/LiberationSans.ttf filter=lfs diff=lfs merge=lfs -text
+/Assets/TextMesh[[:space:]]Pro/Resources/Fonts[[:space:]]&[[:space:]]Materials/LiberationSans[[:space:]]SDF.asset filter=lfs diff=lfs merge=lfs -text
+/Assets/TextMesh[[:space:]]Pro/Sprites/EmojiOne.png filter=lfs diff=lfs merge=lfs -text
+/Assets/UniGLTF/UniHumanoid/doc/humanoid.gif filter=lfs diff=lfs merge=lfs -text
+/Assets/UniGLTF/doc/animation.gif filter=lfs diff=lfs merge=lfs -text
+/Assets/UniGLTF/doc/pbr_to_standard.png filter=lfs diff=lfs merge=lfs -text
+/Builds/CaptureTheFlagsDemo.zip filter=lfs diff=lfs merge=lfs -text
+/Builds/WebGL/Build/WebGL.data filter=lfs diff=lfs merge=lfs -text
+/Builds/WebGL/Build/WebGL.framework.js filter=lfs diff=lfs merge=lfs -text
+/Builds/WebGL/Build/WebGL.wasm filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags.exe filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/Assembly-CSharp.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/Mono.Security.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/Newtonsoft.Json.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/System.ComponentModel.Composition.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/System.Configuration.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/System.Core.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/System.Data.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/System.Drawing.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/System.IO.Compression.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/System.Net.Http.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/System.Numerics.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/System.Runtime.Serialization.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/System.Security.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/System.ServiceModel.Internals.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/System.Xml.Linq.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/System.Xml.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/System.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/Unity.TextMeshPro.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/Unity.Timeline.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/Unity.VisualScripting.Core.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/Unity.VisualScripting.Flow.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/UnityEngine.AnimationModule.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/UnityEngine.CoreModule.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/UnityEngine.IMGUIModule.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/UnityEngine.ParticleSystemModule.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/UnityEngine.Physics2DModule.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/UnityEngine.PhysicsModule.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/UnityEngine.UI.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/UnityEngine.UIElementsModule.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/UnityEngine.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Managed/mscorlib.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Resources/unity[[:space:]]default[[:space:]]resources filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/Resources/unity_builtin_extra filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/globalgamemanagers.assets filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/level0 filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/level0.resS filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/resources.assets filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/resources.assets.resS filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/sharedassets0.assets filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/Capture[[:space:]]the[[:space:]]Flags_Data/sharedassets0.resource filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/MonoBleedingEdge/etc/mono/browscap.ini filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/UnityCrashHandler64.exe filter=lfs diff=lfs merge=lfs -text
+/Builds/Windows_Desktop/UnityPlayer.dll filter=lfs diff=lfs merge=lfs -text
+/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+/Library/Bee/1900b0aE-inputdata.json filter=lfs diff=lfs merge=lfs -text
+/Library/Bee/1900b0aE.dag filter=lfs diff=lfs merge=lfs -text
+/Library/Bee/1900b0aE.dag.json filter=lfs diff=lfs merge=lfs -text
+/Library/Bee/backend_profiler1.traceevents filter=lfs diff=lfs merge=lfs -text
+/Library/Bee/fullprofile.json filter=lfs diff=lfs merge=lfs -text
+/Library/Bee/tundra.log.json filter=lfs diff=lfs merge=lfs -text
+/Library/BuildPlayerData/Editor/TypeDb-All.json filter=lfs diff=lfs merge=lfs -text
+/Library/BuildPlayerData/Player/TypeDb-All.json filter=lfs diff=lfs merge=lfs -text
+/Library/LastBuild.buildreport filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.collab-proxy@2.0.1/Lib/Editor/PlasticSCM/liblz4Plastic.dylib filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.collab-proxy@2.0.1/Lib/Editor/PlasticSCM/localization/cm-help.en.txt filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.collab-proxy@2.0.1/Lib/Editor/PlasticSCM/localization/cm-help.es.txt filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.collab-proxy@2.0.1/Lib/Editor/PlasticSCM/localization/cm-help.ja.txt filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.collab-proxy@2.0.1/Lib/Editor/PlasticSCM/localization/cm-help.ko.txt filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.collab-proxy@2.0.1/Lib/Editor/PlasticSCM/localization/cm-help.zh-Hans.txt filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.collab-proxy@2.0.1/Lib/Editor/PlasticSCM/localization/cm-help.zh-Hant.txt filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.collab-proxy@2.0.1/Lib/Editor/PlasticSCM/localization/plastic-gui.en.txt filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.collab-proxy@2.0.1/Lib/Editor/PlasticSCM/localization/plastic-gui.es.txt filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.collab-proxy@2.0.1/Lib/Editor/PlasticSCM/localization/plastic-gui.ja.txt filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.collab-proxy@2.0.1/Lib/Editor/PlasticSCM/localization/plastic-gui.ko.txt filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.collab-proxy@2.0.1/Lib/Editor/PlasticSCM/localization/plastic-gui.zh-Hans.txt filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.collab-proxy@2.0.1/Lib/Editor/PlasticSCM/localization/plastic-gui.zh-Hant.txt filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.ide.visualstudio@2.0.17/Editor/Plugins/AppleEventIntegration.bundle/Contents/MacOS/AppleEventIntegration filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.ide.visualstudio@2.0.17/Editor/VSWhere/vswhere.exe filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.performance.profile-analyzer@1.2.2/Editor/ProfileAnalyzerWindow.cs filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.testtools.codecoverage@1.2.2/lib/ReportGenerator/ReportGeneratorMerged.dll filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor[[:space:]]Resources/Gizmos/TMP[[:space:]]-[[:space:]]Font[[:space:]]Asset[[:space:]]Icon.psd filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor[[:space:]]Resources/Gizmos/TMP[[:space:]]-[[:space:]]Input[[:space:]]Field[[:space:]]Icon.psd filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.textmeshpro@3.0.6/Editor[[:space:]]Resources/Gizmos/TMP[[:space:]]-[[:space:]]Sprite[[:space:]]Asset[[:space:]]Icon.psd filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.textmeshpro@3.0.6/Package[[:space:]]Resources/TMP[[:space:]]Essential[[:space:]]Resources.unitypackage filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.textmeshpro@3.0.6/Package[[:space:]]Resources/TMP[[:space:]]Examples[[:space:]]&[[:space:]]Extras.unitypackage filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMP_FontAsset.cs filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMP_InputField.cs filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMP_Text.cs filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMP_TextUtilities.cs filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMPro_Private.cs filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMPro_UGUI_Private.cs filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.timeline@1.6.4/Editor/StyleSheets/res/HumanoidDefault.anim filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/InputField.cs filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/Assemblies/Unity.VisualScripting.sqlite3.dll filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll.mdb filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.xml filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/SQLite/SQLite.cs filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.xml filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.visualscripting@1.8.0/Graphics/Constant_16x.ai filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.visualscripting@1.8.0/Graphics/EnumItem_16x.ai filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.visualscripting@1.8.0/Graphics/Events.afphoto filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.visualscripting@1.8.0/Graphics/ExtensionMethod_16x.ai filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.visualscripting@1.8.0/Graphics/Field_16x.ai filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.visualscripting@1.8.0/Graphics/Icons_16x_72dpi.afphoto filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.visualscripting@1.8.0/Graphics/Icons_16x_72dpi.psd filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.visualscripting@1.8.0/Graphics/Icons_32x_72dpi.afphoto filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.visualscripting@1.8.0/Graphics/Icons_32x_72dpi.psd filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.visualscripting@1.8.0/Graphics/Method_16x.ai filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.visualscripting@1.8.0/Graphics/Namespace_16x.ai filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.visualscripting@1.8.0/Graphics/Structure_16x.ai filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.visualscripting@1.8.0/Graphics/Variables.afphoto filter=lfs diff=lfs merge=lfs -text
+/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/NCalcParser.cs filter=lfs diff=lfs merge=lfs -text
+/Library/PlayerDataCache/WebGL/Data/data.unity3d filter=lfs diff=lfs merge=lfs -text
+/Library/PlayerDataCache/WebGL/Data/sharedassets0.resource filter=lfs diff=lfs merge=lfs -text
+/Library/PlayerDataCache/WebGL/DataBuildDirtyInfo.json filter=lfs diff=lfs merge=lfs -text
+/Library/PlayerDataCache/Win64/Data/Resources/unity_builtin_extra filter=lfs diff=lfs merge=lfs -text
+/Library/PlayerDataCache/Win64/Data/globalgamemanagers.assets filter=lfs diff=lfs merge=lfs -text
+/Library/PlayerDataCache/Win64/Data/level0 filter=lfs diff=lfs merge=lfs -text
+/Library/PlayerDataCache/Win64/Data/level0.resS filter=lfs diff=lfs merge=lfs -text
+/Library/PlayerDataCache/Win64/Data/resources.assets filter=lfs diff=lfs merge=lfs -text
+/Library/PlayerDataCache/Win64/Data/resources.assets.resS filter=lfs diff=lfs merge=lfs -text
+/Library/PlayerDataCache/Win64/Data/sharedassets0.assets filter=lfs diff=lfs merge=lfs -text
+/Library/PlayerDataCache/Win64/Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
+/Library/PlayerDataCache/Win64/Data/sharedassets0.resource filter=lfs diff=lfs merge=lfs -text
+/Library/PlayerDataCache/Win64/DataBuildDirtyInfo.json filter=lfs diff=lfs merge=lfs -text
+/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll filter=lfs diff=lfs merge=lfs -text
+/Library/ScriptAssemblies/Assembly-CSharp.dll filter=lfs diff=lfs merge=lfs -text
+/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll filter=lfs diff=lfs merge=lfs -text
+/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll filter=lfs diff=lfs merge=lfs -text
+/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll filter=lfs diff=lfs merge=lfs -text
+/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll filter=lfs diff=lfs merge=lfs -text
+/Library/ScriptAssemblies/Unity.TextMeshPro.dll filter=lfs diff=lfs merge=lfs -text
+/Library/ScriptAssemblies/Unity.Timeline.Editor.dll filter=lfs diff=lfs merge=lfs -text
+/Library/ScriptAssemblies/Unity.Timeline.dll filter=lfs diff=lfs merge=lfs -text
+/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll filter=lfs diff=lfs merge=lfs -text
+/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll filter=lfs diff=lfs merge=lfs -text
+/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll filter=lfs diff=lfs merge=lfs -text
+/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll filter=lfs diff=lfs merge=lfs -text
+/Library/ScriptAssemblies/UnityEditor.TestRunner.dll filter=lfs diff=lfs merge=lfs -text
+/Library/ScriptAssemblies/UnityEngine.TestRunner.dll filter=lfs diff=lfs merge=lfs -text
+/Library/ScriptAssemblies/UnityEngine.UI.dll filter=lfs diff=lfs merge=lfs -text
+/Library/Search/transactions.db filter=lfs diff=lfs merge=lfs -text
